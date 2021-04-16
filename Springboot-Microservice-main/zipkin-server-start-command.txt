@@ -1,0 +1,4 @@
+1. open cmd directly from root dir bar
+
+2. run the following command:
+     java -jar zipkin-server-2.23.2-exec.jar
